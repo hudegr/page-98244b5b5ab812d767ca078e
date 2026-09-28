@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.xaykmfn.cn/sitemap.xml
